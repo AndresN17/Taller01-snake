@@ -4,8 +4,8 @@ Objetivos:
 + Resolver conflictos de integracion utilizando diferentes estrategias.
 ### Grupo 4
 Integrantes:
-+ Andres Noboa
-+ Andrea Soriano
-+ Kenny Yepez
-+ Bryan Puchaicela
-+ Ricardo Salazar
++ Andres Noboa (Lider)
++ Andrea Soriano (Integrante 1)
++ Bryan Puchaicela (Integrante 2)
++ Kenny Yepez (Integrante 3)
++ Ricardo Salazar (Integrante 4)
