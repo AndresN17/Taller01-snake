@@ -8,3 +8,4 @@ Integrantes:
 + Andrea Soriano
 + Kenny Yepez
 + Bryan Puchaicela
++ Ricardo Salazar
