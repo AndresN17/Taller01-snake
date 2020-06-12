@@ -197,13 +197,12 @@ public class GoldModel extends GameModel {
 
 		// Remove the coin at the new collector position (if any)
 		if (this.coins.remove(this.collectorPos)) {
-<<<<<<< HEAD
+
 
 			this.score+=3;
 
-=======
-			this.score++;
->>>>>>> parent of 34c0c04... Cambiando el color de fondo a gris, cambiando texto de boton a empezar y haciendo que en gold cada punto valgan 3
+
+
 		}
 
 		// Check if all coins are found

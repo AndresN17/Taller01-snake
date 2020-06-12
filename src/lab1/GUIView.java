@@ -63,13 +63,10 @@ public class GUIView extends JPanel {
 
 		// Create a new button on that panel and add a StartGameListener as
 		// listener on that button
-<<<<<<< HEAD
 
-		this.startGameButton = new JButton("Empezar");
+		this.startGameButton = new JButton("Go");
 
-=======
-		this.startGameButton = new JButton("Start Game");
->>>>>>> parent of 34c0c04... Cambiando el color de fondo a gris, cambiando texto de boton a empezar y haciendo que en gold cada punto valgan 3
+
 		this.startGameButton.addActionListener(new StartGameListener());
 		this.guiPanel.add(this.startGameButton);
 
